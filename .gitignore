@@ -1,0 +1,4 @@
+.idea
+.sonar
+**/*.iml
+node_modules
