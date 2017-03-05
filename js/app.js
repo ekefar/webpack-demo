@@ -1,5 +1,4 @@
-require("./module2.js");
-require("./module1.js");
-var $ = require("jquery");
+require("./lodash-module.js");
+require("./jquery-module.js");
 
-$("body").html("Jquery is on page");
+
